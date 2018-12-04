@@ -1,0 +1,1 @@
+console.log("Go a little crazy");
